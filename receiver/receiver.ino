@@ -43,7 +43,7 @@ void loop()
       String c = s.substring(0,index);
       index++;
       String l = s.substring(index,s.length());
-      if (c==x){
+      if ((c.toInt()-10)<=x.toInt()<=(c.toInt()+10)){
         Serial.println(l);
       }
       
