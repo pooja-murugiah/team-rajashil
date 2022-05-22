@@ -8,7 +8,7 @@
 
 RH_ASK driver;
 Adafruit_HMC5883_Unified mag = Adafruit_HMC5883_Unified(12345);
-String s1,snd,lmt="90"; //Speed Limit
+String s1,snd,lmt="80"; //Speed Limit
 
 void setup(void) 
 {
