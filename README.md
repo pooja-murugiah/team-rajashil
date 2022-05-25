@@ -14,5 +14,5 @@
 ![Image 1](/Emitter.png)
 ![Image 1](/Full.png)
 
-#Note:
+# Note:
 * This repositry was created for TECHNICA,( a Hackathon by ISTE-VIT)
